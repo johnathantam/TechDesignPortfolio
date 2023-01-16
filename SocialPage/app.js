@@ -128,7 +128,7 @@ if (letsGoBackButton) letsGoBackButton.addEventListener(('click'), () =>
     //load second page html
     var a = document.createElement('a');
 
-    a.href = "https://johnathantam.github.io/Portfolio/index.html";
+    a.href = "https://johnathantam.github.io/TechDesignPortfolio/index.html";
     a.click();
 })
 
@@ -161,6 +161,6 @@ if (experience) experience.addEventListener(('click'), () => {
     //load second page html
     var a = document.createElement('a');
 
-    a.href = "https://johnathantam.github.io/Portfolio/ExperiencePage/index.html";
+    a.href = "https://johnathantam.github.io/TechDesignPortfolio/ExperiencePage/index.html";
     a.click();
 })
